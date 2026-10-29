@@ -4,7 +4,7 @@ choiceVehicle = int(input("Enter you choice (1 or 2): "))
 if choiceVehicle == 1:
     print("You have selected Bike ride")
     print("Enter the type of bike \n B1. Hero Splendor \n B2.Honda Shine ")
-    choiceBike = input("Enter the type of vehivle : ")
+    choiceBike = input("Enter the type of vehicle : ")
     if choiceBike == "B1":
         print("You have selected Hero Splendor")
     elif choiceBike == "B2":
